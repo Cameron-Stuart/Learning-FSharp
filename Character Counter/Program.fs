@@ -9,4 +9,5 @@ let main argv =
     printfn "Enter a string to have the length calculated!"
     let i = Console.ReadLine()
     printfn "Length: %i" (countLength i)
+    Console.ReadKey() |> ignore
     0 // return an integer exit code

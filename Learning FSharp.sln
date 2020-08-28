@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.29519.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Hello World", "Hello World\Hello World.fsproj", "{26465433-A3CD-42A5-8755-D45D8911D4F8}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Character Counter", "Character Counter\Character Counter.fsproj", "{19E588AF-814C-4412-BA58-352B8E358D06}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Character Counter", "Character Counter\Character Counter.fsproj", "{19E588AF-814C-4412-BA58-352B8E358D06}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Small Snippets", "Small Snippets\Small Snippets.fsproj", "{FA4748DA-91B3-43A4-8272-D9DD27B4EB3A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{19E588AF-814C-4412-BA58-352B8E358D06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19E588AF-814C-4412-BA58-352B8E358D06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19E588AF-814C-4412-BA58-352B8E358D06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA4748DA-91B3-43A4-8272-D9DD27B4EB3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA4748DA-91B3-43A4-8272-D9DD27B4EB3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA4748DA-91B3-43A4-8272-D9DD27B4EB3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA4748DA-91B3-43A4-8272-D9DD27B4EB3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
